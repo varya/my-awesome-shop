@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 08 Apr 2021 10:37:57 GMT
+ * Generated on Fri, 09 Apr 2021 08:18:03 GMT
  */
 
 export const primaryOrange100 = "rgba(241, 82, 35, 1)";
